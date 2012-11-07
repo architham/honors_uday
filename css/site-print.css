@@ -1,0 +1,8 @@
+/* print accordion */
+
+  .ui-accordion-content {
+       display: block !important;
+       border:0;
+  }
+    
+

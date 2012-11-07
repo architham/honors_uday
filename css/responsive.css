@@ -1,0 +1,71 @@
+img, object {
+max-width: 100%;
+width: auto;
+height: auto;
+}
+
+
+#container {background-color:#fff;}
+
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+        
+    #unm_header {width:auto;}   
+         #page, #container { width: auto; overflow:hidden; }
+         #container.col2, #container.col3 {background-image:none;}
+         .col2 #primary_aside, .col2 #secondary_aside, .col3 #primary_aside {width:auto; float:none;}
+     .col2 #content_top,.col3 #content_top{float:none; width:auto;}
+    .col2 #content {width:auto;}
+    .col3 #secondary_aside {float:left;}
+    .header_content {width:auto;}
+    
+    
+    }
+
+
+
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 320px */
+
+    @media only screen and (max-width: 767px) {
+       #page, #container { width: auto; overflow:hidden; }
+        #container.col2, #container.col3 {background-image:none;}
+       .col2 #primary_aside, .col2 #secondary_aside, .col3 #primary_aside, .col3 #secondary_aside {width:auto; float:none;}
+       .col2 #content_top, .col3 #content_top{float:none; width:auto;}
+       .col2 #content, .col3 #content {width:100%; float:none;}
+       .header_content {width:auto;}
+       
+       
+       .left, .right {float:none; margin:0 0 1em 0;}
+       
+       
+    }
+
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+       #page, #container { width: auto; overflow:hidden; }
+       #container.col3 {background-image:none;}
+       .col3 #primary_aside, .col3 #secondary_aside {width:auto; float:none;}
+       .col3 #secondary_aside {clear:both;}
+       
+       .col3 #content_top{float:none; width:auto;}
+       .col3 #content {width:auto;}
+       .header_content {width:auto;}
+         .left, .right {float:none; margin:0 0 1em 0;}
+       
+
+    }

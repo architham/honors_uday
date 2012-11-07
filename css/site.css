@@ -1,0 +1,184 @@
+/* Site CSS */
+
+/* Custom Stylesheet - put your custom css here */
+
+xbody {background:#fff url(../images/unm-seal.jpg) 40% 300px no-repeat}
+
+body {
+background: #FFF none no-repeat fixed top left;
+background-image: none;
+}
+
+#container.col2, #container.col3, #container {background-image:none;}
+
+.nomargin {margin:0;}
+
+#page {padding-top:10px;
+background-color:#fff;
+
+ 
+margin-bottom:10px; padding-bottom:10px;}
+
+#page-feature img.feature {margin-top:-10px; border-top:0;}
+
+.checklist {float:right; clear:right; margin:0 0 1em 1em; width:200px; border:1px solid #ccc; background-color:#F4F4F4;}
+.box_title {background-color:#c10037; color:#fff; margin:0; padding:5px 10px;}
+.box_title h3 {margin:0;}
+.box_content ul li {margin-bottom:.5em;}
+.box_content {padding:10px;}
+.box_stripe {background-color:#007a86; padding:10px; color:#fff;}
+.box_stripe p, .box_title p{ margin:0;}
+
+#template_download {background: #eee url(../images/download.jpg) 5px 50% no-repeat; margin-top:5px; padding:10px 10px 10px 45px; border:1px solid #ccc;}
+#template_download p {font-weight:bold; margin:0;}
+
+
+
+label.error { color:#c10037; display:block;} 
+
+
+ 
+#errors {
+    border: 1px solid; 
+    margin: 10px 0px; 
+    padding:15px 10px 15px 75px; 
+    background-repeat: no-repeat; 
+    background-position: 10px 10px;
+    color: #D8000C; 
+    background-color: #FFBABA; 
+    background-image: url('/common/images/message_icons/error.png');
+    display:none;
+}
+    
+.invalid {display:block;   border: 1px solid;   color: #D63301; 
+    background-color: #FFCCBA; padding:2px; margin-top:2px;}
+
+input.invalid { padding:1px; margin:0; background-image:none; background-color:#eee; display:inline}    
+
+
+
+
+/* CSS Document */
+caption {
+    font-size: 1.5em; /* 18px */
+    line-height: 1em; /* 18px */
+    margin-top: 0;
+    margin-bottom:0;
+}
+table, thead, tbody, tr, th, td {
+    font-size:1em;
+    line-height: 1.5em;
+}
+table {
+    border-collapse:collapse; margin-bottom:1.5em;
+}
+td, th {
+    border:1px solid #eee;
+    border-left:0; border-right:0;
+    padding:5px 10px 5px 10px;
+
+}
+th {
+    color: #fff;
+    
+    font-weight:bold;
+}
+
+
+thead th {
+    color: #fff;
+    background: #c10037;
+    font-size:1.1em;
+    padding-left:5px;
+    padding-right:5px;
+    }
+    
+thead td {
+    background-color:#ddd;
+    }
+
+
+tbody th {background-color:#EEE; color:#555;
+padding-left:5px;
+    padding-right:5px;}
+tfoot {font-weight:bold;}
+ 
+
+.odd {
+    background-color:#eee;
+}
+
+
+span.note { font-style:italic; font-size:.95em; color:#666666; font-family:"Times New Roman", Times, serif;}
+input {margin-bottom:0;}
+
+
+/* WCMS status colors */
+
+td.pending {background-color:red; color:#fff;}
+td.sitecreated {background-color:yellow;}
+td.inprogress {background-color:blue; color:#fff;}
+td.publishing {background-color:green; color:#fff;}
+
+
+.test {margin:0;}
+
+.rss {
+ padding: 5px 0px 5px 20px;
+ background: transparent url(http://webcore.unm.edu/v1/images/icons/icon_feed.gif) no-repeat center left;
+} 
+
+
+
+ol { list-style-position: outside; }
+
+
+/*  Accordion header for web standards. */
+.ui-accordion-icons .ui-accordion-header a {
+padding-left: 2.2em;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+/* next prev nav */
+
+
+.nav-next::after {
+content: "  \00BB";
+}
+.nav-next {
+float: right;
+font-size: .9em;
+}
+
+
+.nav-prev::before {
+content: "\00AB  ";
+}
+.nav-prev {
+float: ;left;
+font-size: .9em;
+}
+
+.section-list {
+list-style: none;
+margin: 0;
+padding: 0;
+border-top: 1px solid #eee;
+}
+.section-list li {
+padding: 2px 5px;
+border-bottom: 1px solid #eee;
+}
+.current-section {
+background-color: #eee;
+}
+.section-list li:hover {
+background: #ddd;
+}
+
+.section-list li a {
+width: 100%;
+display: block;
+}
+
