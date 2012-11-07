@@ -20,7 +20,7 @@ include('header.php')
         <div id="before_default_2"></div>
         <div id="before_default_3"></div>
         <div id="before_default_4"></div> 
-        <h1>UNM Honors College | Thesis or Project</h1>
+        <h1>Thesis or Project</h1>
 
         <h3>Senior Thesis/Creative Project</h3>
 

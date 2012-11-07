@@ -36,7 +36,7 @@
   <li><a href="http://fastinfo.unm.edu/" title="FastInfo">FastInfo</a></li>
   <li><a href="https://my.unm.edu/" title="myUNM">myUNM</a></li>
   <li><a href="http://directory.unm.edu/" title="Directory">Directory</a></li>
-  <li class="unm_panel_open"><span class="panel_link">more</span></li>
+  
   </ul>
   <form action="http://google.unm.edu/search" id="unm_search_form" method="get">
     <fieldset>
@@ -65,23 +65,23 @@
     
       <li class="submenu"><a href="index.php" title="Submenu for About">About</a>
       <ul style="display: none; ">
-        <li><a href="info.php">General Information</a></li>
+        <li><a href="geninfo.php">General Information</a></li>
         <li><a href="history.php">History</a></li>
-        <li><a href="fees.html">Honors Board</a></li>
+        <li><a href="board.php">Honors Board</a></li>
       </ul>
       </li>
 
-    <li><a href="">Admissions</a></li>
+    <li><a href="admission.php">Admissions</a></li>
       <li class="submenu"><a href="index.html" title="Submenu for Academics">Academics</a>
       <ul style="display: none; ">
-        <li><a href="index.html">Designation</a></li>
+        <li><a href="designation.php">Designation</a></li>
         <li class="submenu"><a href="services.html">Major</a>
           <ul style="display: none;">
             <li><a href="thesis.php">Senior Thesis/Project for Majors</a></li>
           </ul>
         
         </li>
-        <li><a href="fees.html">Minor</a></li>
+        <li><a href="minor.php">Minor</a></li>
         <li><a href="sitecheck.html">Courses</a></li>
       </ul>
       </li>
@@ -167,9 +167,11 @@
         <div class="quickfindarea">
       <h2>Quick Links</h2>
       <ul title="quick links">
-        <li><a href="https://cascade.unm.edu/">Login to WCMS (Cascade Server)</a></li>
-        <li><a href="https://my.siteimprove.com/">Siteimprove Login</a></li>
-        <li><a href="http://unmweb.pbwiki.com/">Web Standards Project Wiki</a></li>
+        <li><a href="http://admissions.unm.edu/">Admissions</a></li>
+        <li><a href="http://finaid.unm.edu">Financial Aid</a></li>
+        <li><a href="http://ogs.unm.edu">Graduate Studies</a></li>
+        <li><a href="http://www.golobos.com">Lobo Athletics</a></li>
+        <li><a href="http://sac.unm.edu">Student Activities</a></li>
       </ul>
     </div>
     </div>
@@ -182,7 +184,7 @@
         <span class="street-address">1 University of New Mexico</span><br>
         <span class="locality">Albuquerque</span>, <abbr class="region" title="New Mexico">NM</abbr> 
         <span class="postal-code">87131</span></p>
-        <p><span><a class="email" href="mailto:unmweb@unm.edu">unmweb@unm.edu</a></span></p>
+        <p><span><a class="email" href="mailto:honors@unm.edu">honors@unm.edu</a></span></p>
         </div>
     </div>
     </div>
