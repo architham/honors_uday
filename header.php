@@ -77,6 +77,7 @@
         <li><a href="designation.php">Designation</a></li>
         <li class="submenu"><a href="services.html">Major</a>
           <ul style="display: none;">
+            <li><a href="degree.php">Degree</a></li>
             <li><a href="thesis.php">Senior Thesis/Project for Majors</a></li>
           </ul>
         
@@ -87,7 +88,7 @@
       </li>
       
       
-      <li class="submenu"><a href="/web-advisory/index.html" title="Submenu for Web Advisory Committee">Experiential Academic Opportunities</a>
+      <li class="submenu"><a href="#" title="Academic Opportunities">Experiential Academic Opportunities</a>
         <ul style="display: none; ">
           <li><a href="http://scribendi.unm.edu/">Scribendi</a></li>
           <li class="submenu"><a href="#">Conexiones</a>
@@ -95,6 +96,7 @@
               <li><a href="http://www.unm.edu/~conspain/">Spain</a></li>
               <li><a href="https://sites.google.com/site/conexionesnicaragua2012/">Nicaragua</a></li>
               <li><a href="">China</a></li>
+              <li><a href="">Argentina</a></li>
             </ul>
         
           </li>
@@ -135,9 +137,9 @@
       <li class="submenu"><a href="/stats/index.html" title="Submenu for Activities & Oppurtunities">Activities and Opportunities</a>
         <ul style="display: none; ">
           <li><a href="/stats/index.html">National Fellowships and Scholarships</a></li>
-          <li><a href="/stats/browser.php">Center for Academic Excellence and Leadership Development</a></li>
+          <li><a href="http://caeld.unm.edu/index.html">Center for Academic Excellence and Leadership Development</a></li>
           <li><a href="/stats/mobile.php">Regents' Scholars</a></li>
-          <li><a href="#">Honors College Leadership organization</a></li>
+          <li><a href="#">Honors Student Association</a></li>
         </ul>
       </li>
       
@@ -165,16 +167,20 @@
       <!-- PRIMARY ASIDE 3-->
       <div id="primary_aside_3">
         <div class="quickfindarea">
-      <h2>Quick Links</h2>
-      <ul title="quick links">
-        <li><a href="http://admissions.unm.edu/">Admissions</a></li>
-        <li><a href="http://finaid.unm.edu">Financial Aid</a></li>
-        <li><a href="http://ogs.unm.edu">Graduate Studies</a></li>
-        <li><a href="http://www.golobos.com">Lobo Athletics</a></li>
-        <li><a href="http://sac.unm.edu">Student Activities</a></li>
-      </ul>
-    </div>
-    </div>
+          <h2>Quick Links</h2>
+          <ul title="quick links">
+            <li><a href="http://admissions.unm.edu/">Admissions</a></li>
+            <li><a href="http://finaid.unm.edu">Financial Aid</a></li>
+            <li><a href="http://ogs.unm.edu">Graduate Studies</a></li>
+            <li><a href="http://www.golobos.com">Lobo Athletics</a></li>
+            <li><a href="http://sac.unm.edu">Student Activities</a></li>
+            <li><a href="http://asunm.unm.edu/">ASUNM</a></li>
+          </ul>
+        </div>
+
+ <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FUNM-Honors-College%2F49419894305&amp;width=220&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height:258px;" allowTransparency="true"></iframe>
+
+      </div>
       
       <!-- PRIMARY ASIDE 4 -->
       <div id="primary_aside_4">

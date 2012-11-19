@@ -20,8 +20,8 @@ include('header.php')
 
 
 <p>
-  <a href="https://spreadsheets.google.com/viewform?formkey=dG9leF9zYWhlOFd1MmZ3UGZKU3NqRUE6MQ"><img class="right" width="103" height="104" style="position: absolute; top: 35px; right: 10px; z-index: 10;" src="images/honors_banner.png" alt="Apply Now!"></a></p>
-<p>
+  <a href="https://docs.google.com/spreadsheet/viewform?formkey=dGVIWG9scmdIWXhuUUNfcUVIcnB2WUE6MA#gid=0"><img class="right" width="103" height="104" style="position: absolute; top: 35px; right: 10px; z-index: 10;" src="images/honors_banner.png" alt="Apply Now!"></a></p>
+<p class="modified">
   To apply to the University of New Mexico Honors College, incoming freshmen, current UNM students or transfer students must fill out an <a href="https://spreadsheets.google.com/viewform?formkey=dG9leF9zYWhlOFd1MmZ3UGZKU3NqRUE6MQ">application</a> and submit unofficial transcripts. <em>Transfer or current UNM students should ideally apply to the Honors College by the end of their freshmen year.</em></p>
 <h3>
   Requirements of the Honors College</h3>

@@ -5,7 +5,10 @@ include('header.php')
 ?>
     <div id="content_top">
       <div class="content">
-        <ul id="unm_breadcrumbs"><li class="unm_home"><a href="http://www.unm.edu/">UNM</a></li><li><span class="breadcrumb-div">»</span><a href="http://webmaster.unm.edu/index.html">Honors Home</a></li></ul>
+        <ul id="unm_breadcrumbs">
+          <li class="unm_home"><a href="http://www.unm.edu/">UNM</a></li>
+          <li><span class="breadcrumb-div">»</span><a href="http://webmaster.unm.edu/index.html">Honors Home</a></li>
+        </ul>
         
       </div>
     </div>
