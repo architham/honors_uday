@@ -113,14 +113,14 @@
       
       <li class="submenu"><a href="/wcms/index.html" title="Submenu for Advising">Advising</a>
         <ul style="display: none; ">
-           <li><a href="/wcms/index.html">Priority Registration</a></li>
-           <li><a href="/wcms/index.html">Override Card</a></li>
+           <li><a href="priorreg.php">Priority Registration</a></li>
+           <li><a href="https://docs.google.com/spreadsheet/viewform?formkey=dC0wLWktMHdjeFlMQ1dGdjc5Nnp3aXc6MQ#gid=0">Override Card</a></li>
         </ul>
       </li>
        
-      <li class="submenu"><a href="/web-policy/index.html" title="Submenu for Faculty and Staff">Faculty and Staff</a>
+      <li class="submenu"><a href="#" title="Submenu for Faculty and Staff">Faculty and Staff</a>
         <ul style="display: none; ">
-          <li><a href="/web-policy/index.html">Current</a></li>
+          <li><a href="faculty.php">Current</a></li>
       
           <li class="submenu"><a href="/web-policy/index.html" title="Submenu for Prospective">Prospective</a>
             <ul style="display: none; ">
@@ -128,12 +128,12 @@
               <li><a href="/web-policy/web-standards/index.html">Proposal Form</a></li>
             </ul>
           </li>
-          <li><a href="/web-policy/web-standards/index.html">Carruthers Chair</a></li>
+          <li><a href="charchair.php">Carruthers Chair</a></li>
         </ul>
       </li>
       <!--Hola!-->
       <li><a href="#">Calendar</a></li>
-      <li><a href="">Alumni</a></li>
+      <li><a href="alumni.php">Alumni</a></li>
       <li class="submenu"><a href="/stats/index.html" title="Submenu for Activities & Oppurtunities">Activities and Opportunities</a>
         <ul style="display: none; ">
           <li><a href="/stats/index.html">National Fellowships and Scholarships</a></li>
@@ -144,7 +144,7 @@
       </li>
       
       <li><a href="/blog/index.html">Donate to</a></li>
-      <li><a href="#">Contact Us</a></li>
+      <li><a href="contact.php">Contact Us</a></li>
       </ul>
       </div>
       
