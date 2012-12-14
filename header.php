@@ -19,8 +19,8 @@
 
 <!-- Site Meta -->
 
-<link href="../css/responsive.css" media="screen" rel="stylesheet" type="text/css" />
-<link href="../css/site-print.css" media="print" rel="stylesheet" type="text/css" />
+<link href="css/responsive.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="css/site-print.css" media="print" rel="stylesheet" type="text/css" />
 <meta content="width=device-width, initial-scale=1, minimum-scale=1" name="viewport" />
 
 </head>
